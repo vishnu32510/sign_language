@@ -15,4 +15,4 @@ The Sign Language Detection Project aims to recognize sign language gestures usi
 - Implement real-time gesture translation.
 - Enhance accessibility for the deaf community.
 
-### This project is out submission for CS 584 Machine Learning Fall 2024
+### This project is our submission for CS 584 Machine Learning Fall 2024
