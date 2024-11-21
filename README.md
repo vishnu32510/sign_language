@@ -10,7 +10,7 @@
     Recognizing sign language gestures using neural networks.
     <br/>
     <br/>
-    <a href="https://drive.google.com/drive/u/1/folders/1h6fMI7eDyQOsh1_uK14HpRkn8Q9Ro3x7">View Demo</a>
+    <a href="https://drive.google.com/file/d/15WHiBghgZ_6vjO2UC72UZq-KzXqwgWYH/view?t=11">View Demo</a>
   </p>
 </p>
 
