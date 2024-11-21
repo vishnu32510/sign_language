@@ -1,4 +1,18 @@
-# Sign Language Detection Project
+<br/>
+<p align="center">
+  <a href="https://github.com/vishnu32510/sign_language">
+    <img src="https://www.computervision.zone/wp-content/uploads/2022/07/Project-ThumbnailsQ-4.jpg" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Sign Language Detection Project</h3>
+
+  <p align="center">
+    Recognizing sign language gestures using neural networks.
+    <br/>
+    <br/>
+    <a href="https://drive.google.com/drive/u/1/folders/1h6fMI7eDyQOsh1_uK14HpRkn8Q9Ro3x7">View Demo</a>
+  </p>
+</p>
 
 ## Team Members
 - Vignesh Ram Ramesh Kutti
