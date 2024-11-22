@@ -31,7 +31,7 @@ cd codebase_team_12/PHASE_III/demo
 2. Set Up Virtual Environment (Optional but Recommended)
 Create and activate a virtual environment:
 ```
-python -m venv env
+python -m venv venv
 source venv/bin/activate  # For macOS/Linux
 venv\Scripts\activate     # For Windows
 ```
