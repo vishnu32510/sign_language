@@ -45,7 +45,7 @@ pip install -r requirements.txt
 4. Run the Demo (PHASE_III)
 Open the Jupyter Notebook and run handsign.ipynb: (model file is included)
 ```
-jupyter notebook demo/handsign.ipynb
+jupyter notebook handsign.ipynb
 ```
 
 
