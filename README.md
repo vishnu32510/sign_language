@@ -39,13 +39,13 @@ venv\Scripts\activate     # For Windows
 3. Install Dependencies
 Install the necessary libraries:
 ```
-pip install -r ../requirements.txt
+pip install -r requirements.txt
 ```
 
 4. Run the Demo (PHASE_III)
 Open the Jupyter Notebook and run handsign.ipynb: (model file is included)
 ```
-jupyter notebook ../demo/handsign.ipynb
+jupyter notebook demo/handsign.ipynb
 ```
 
 
